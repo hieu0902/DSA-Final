@@ -1,11 +1,11 @@
-SUBJECT: CUSTOMER MANAGEMENT SYSTEM
+   	SUBJECT: CUSTOMER MANAGEMENT SYSTEM
 
 
 
-Contributors:
-1. Nguyễn Đình Minh Hiếu - 20210345 (Leader)
-2. Nguyễn Văn Đức - 20213698
-3. Bùi Thành Đạt - 20213696
+		Contributors:
+		1. Nguyễn Đình Minh Hiếu - 20210345 (Leader)
+		2. Nguyễn Văn Đức - 20213698
+		3. Bùi Thành Đạt - 20213696
 
 
 User Manual: Introduction
